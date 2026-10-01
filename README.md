@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hemanth-bs/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Hemanth-bs/Leetcode/tree/master/0217-contains-duplicate) |
 | [1672-richest-customer-wealth](https://github.com/Hemanth-bs/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -14,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hemanth-bs/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Hemanth-bs/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Hemanth-bs/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
